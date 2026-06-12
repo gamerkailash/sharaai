@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="f_cat_1">लग्नातील उखाणे </string>
+    <string name="f_cat_2">२४ X ७ उखाणे </string>
+    <string name="f_cat_3">गमतीदार उखाणे </string>
+    <string name="f_cat_4">पूजेचे उखाणे </string>
+    <string name="f_cat_5">मंगळागौरीचे  उखाणे </string>
+    <string name="f_cat_6">डोहाळेजेवणाचे उखाणे </string>
+    <string name="f_cat_7">बारशाचे उखाणे </string>
+    <string name="f_cat_8">लग्नाआधीचे उखाणे </string>
+    <string name="f_cat_9">गृहप्रवेशाचे उखाणे </string>
+    <string name="f_cat_10">सणवार उखाणे </string>
+    
+   </resources>

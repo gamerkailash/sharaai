@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ffff0000</color>
+    <color name="RED1">#ff7300</color>
+    <color name="GREEN">#ff7300</color>
+    <color name="BLACK">#ff7300</color>
+    <color name="YELLOW">#f2a200</color>
+    <color name="WHITE">#ffffff</color>
+    <color name="Policy">#ffffff</color>
+    <color name="divider">#C6782B</color>
+    <color name="gamename">#911E1B</color>
+    <color name="gamebg">#F2A200</color>
+</resources>
