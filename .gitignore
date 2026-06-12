@@ -1,0 +1,6 @@
+bin/
+gen/
+*.class
+*.dex
+*.apk
+.DS_Store
