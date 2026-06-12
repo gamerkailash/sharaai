@@ -9,6 +9,7 @@ import android.view.WindowManager;
 public class FacebookPost extends Activity {
 
     public static String messageToPostOnFacebook = "";
+    public static byte[] bitMapData;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

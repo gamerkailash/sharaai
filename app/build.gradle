@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.sharaai.ukhane'
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.sharaai.ukhane"
         minSdk 21
-        targetSdk 34
+        targetSdk 36
         versionCode 1011
         versionName "2.0"
     }

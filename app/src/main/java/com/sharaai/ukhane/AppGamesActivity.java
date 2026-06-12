@@ -52,16 +52,13 @@ public class AppGamesActivity extends Activity {
 	}
 	
 	public void onAppIconClick(View v){
-		switch(v.getId()){
-		case R.id.game1:
+		int vid = v.getId(); if (false) {
+		} else if (vid == R.id.game1) {
 			Utilities.launchGame(AppGamesActivity.this, 1);
-			break;
-		case R.id.game2:
+		} else if (vid == R.id.game2) {
 			Utilities.launchGame(AppGamesActivity.this, 2);
-			break;
-		case R.id.game3:
+		} else if (vid == R.id.game3) {
 			Utilities.launchGame(AppGamesActivity.this, 3);
-			break;
 		}
 	}
 	@Override

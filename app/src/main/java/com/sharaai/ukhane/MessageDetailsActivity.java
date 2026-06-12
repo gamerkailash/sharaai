@@ -199,27 +199,6 @@ public class MessageDetailsActivity extends Activity implements AppConstants
 	}
 	
 	
-	void inmobi()
-	{
-		try {
-			 
-			
-		                }
-		        }
-		        }
-		                }
-		        }
-								IMErrorCode arg1) {
-							// TODO Auto-generated method stub
-							
-						}
-		    });
-			
-		} catch (Exception e3) {
-			// TODO Auto-generated catch block
-			e3.printStackTrace();
-		}
-	}
 
 	
 	Handler handler = new Handler();

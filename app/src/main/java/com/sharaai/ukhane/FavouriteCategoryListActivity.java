@@ -185,27 +185,6 @@ public class FavouriteCategoryListActivity extends ListActivity implements AppCo
 	
 
 	
-	void inmobi()
-	{
-		try {
-			 
-			
-		                }
-		        }
-		        }
-		                }
-		        }
-								IMErrorCode arg1) {
-							// TODO Auto-generated method stub
-							
-						}
-		    });
-			
-		} catch (Exception e3) {
-			// TODO Auto-generated catch block
-			e3.printStackTrace();
-		}
-	}
 
 	public static ArrayList<Integer> categoryList = new ArrayList<Integer>();
 	public void refreshList()

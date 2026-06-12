@@ -195,27 +195,6 @@ public class FavouriteMessageDetailsActivity extends Activity implements AppCons
 
 	
 	
-	void inmobi()
-	{
-		try {
-			 
-			
-		                }
-		        }
-		        }
-		                }
-		        }
-								IMErrorCode arg1) {
-							// TODO Auto-generated method stub
-							
-						}
-		    });
-			
-		} catch (Exception e3) {
-			// TODO Auto-generated catch block
-			e3.printStackTrace();
-		}
-	}
 
 	
 	
