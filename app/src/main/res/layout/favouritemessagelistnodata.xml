@@ -85,16 +85,6 @@ android:layout_height="match_parent"
             android:layout_gravity="center_horizontal"/>
         
         -->
-        <com.inmobi.monetization.IMBanner
-            android:id="@+id/banner"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            adSize="15"
-            appId="58597300c5d0468691396967233bb27c" 
-                        android:layout_centerHorizontal="true"
-            android:layout_gravity="center_horizontal"
-            android:gravity="center_horizontal"
-            />
         
         
         

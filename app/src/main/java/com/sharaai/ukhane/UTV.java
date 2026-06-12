@@ -31,7 +31,6 @@ public class UTV extends Activity{
 			
 		setContentView(R.layout.utv);
 		mRedrawHandler.sleep(delay);
-		super.onCreate(savedInstanceState);
 	}
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
